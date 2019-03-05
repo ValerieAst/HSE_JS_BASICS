@@ -1,0 +1,18 @@
+let start = "Жили у бабуси два веселых гуся" // кавычки, транслит //
+let $end = "один серый другой белый два веселых гуля" // дефис //
+
+let text1 = start // нельзя начинать с цифры //
+
+if (text1 = start)
+
+
+
+let discountCode = 985
+let simpsonsBestEpisode = "Broken Secret"
+let coffeePrice = 149.99
+
+if (coffeePrice <= 250) {
+  alert("Беру!")
+}  else {
+    alert ("Вот купон на скидку: " + discountCode)
+}
